@@ -59,13 +59,13 @@ dataset/
 
 Try [Google Teachable Machine](https://teachablemachine.withgoogle.com/) to train your own model **without coding**.
 
-You can also explore more ML demos and notebooks on our GitHub page:  
+You can also explore more ML demos and notebooks on my GitHub page:  
 🔗 [github.com/benyaminemp](https://github.com/benyaminemp)
 
 ---
 
 ## ✉️ Contact
 
-📧 **Dr. Benyamin Ebrahimpour**  
+📧 **Benyamin Ebrahimpour, PhD**  
 📍 University of Portsmouth London  
-📨 benyamin.ebrahimpour@gmail.com
+📨 Dr.benyamin.ebrahimpour@gmail.com
