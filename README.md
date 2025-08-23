@@ -67,5 +67,5 @@ You can also explore more ML demos and notebooks on my GitHub page:
 ## ✉️ Contact
 
 📧 **Benyamin Ebrahimpour, PhD**  
-📍 University of Portsmouth London  
+📍 University of Portsmouth, London (UoPL) 
 📨 Dr.benyamin.ebrahimpour@gmail.com
